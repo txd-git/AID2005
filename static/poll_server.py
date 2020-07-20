@@ -7,7 +7,7 @@ from select import *
 
 # 全局变量
 HOST = "0.0.0.0"
-PORT = 8889
+PORT = 8866
 ADDR = (HOST,PORT)
 
 # 创建tcp套接字
